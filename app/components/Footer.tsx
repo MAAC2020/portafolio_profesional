@@ -12,8 +12,8 @@ const Footer = () => {
             modernas como JavaScript, React.js y Python.{" "}
           </p>
           <p className="text-white pt-2">
-            <span>Icono</span>{" "}
-            <span className="font-bold">abmcodehub@gmail.com</span>
+            <span>Linkedin:</span>{" "}
+            <span className="font-bold">https://www.linkedin.com/in/mauricio-andres-araujo-castaño/</span>
           </p>
         </div>
       </footer>
