@@ -75,9 +75,9 @@ export default function Page() {
               productividad y fortalezcan la transformación digital.
             </p>
             <div className="flex flex-row gap-4 justify-center-safe">
-              <button className="bg-none hover:bg-accent-content p-6 rounded-4xl hover:font-bold border-4 hover:border-white text-base-content hover:text-base-100 cursor-pointer">
+              <Link href={"/contacto"} className="bg-none hover:bg-accent-content p-6 rounded-4xl hover:font-bold border-4 hover:border-white text-base-content hover:text-base-100 cursor-pointer">
                 Contáctame
-              </button>
+              </Link>
               <button className="bg-none hover:bg-accent-content p-6 rounded-4xl hover:font-bold border-4 hover:border-white text-base-content hover:text-base-100 cursor-pointer">
                 Descargar CV
               </button>
